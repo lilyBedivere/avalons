@@ -70,7 +70,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "有趣的事情那么多，总得试试~."
-sidebar-avatar: /img/saberone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /avalons/img/saberone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
