@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "笔记"
+subtitle:   "eNSP笔记"
+date:       2016-05-14 22:00:00
+author:     "Hzb"
+header-img: "img/saber1-bg.jpg"
+tags:
+    - note
+---
 ## eNSP 16/5/14
 路由交换占50%-60%，wlan，安全占40%， 10%超纲
 ### ip
